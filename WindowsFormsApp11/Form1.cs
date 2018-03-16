@@ -237,6 +237,7 @@ namespace WindowsFormsApp11
         private void pCanvas_Paint(object sender, PaintEventArgs e)
         {
             return;
+
             if (!isMousePressed) return;
 
            
