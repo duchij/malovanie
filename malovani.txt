@@ -1,0 +1,6 @@
+Malovani:
+1. vyresit clip Graphics kdyz se zvetsi cele okno
+2. pridat tlacitka aby clovek mohl kreslit ruzne tvary, kruh, obdelnik, atd.
+3. ulozit namalovany obrazek
+4. nacist obrazek
+5. Zkusit si efekty: rozmazani, zmena meritka(scale), zaostreni
